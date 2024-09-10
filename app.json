@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "client",
+    "slug": "client",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "ios"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.client"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
