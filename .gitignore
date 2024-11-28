@@ -2,6 +2,8 @@
 
 # dependencies
 node_modules/
+.env
+letyn-f05f1-firebase-adminsdk-fgu71-55f4d108d6.json
 
 # Expo
 .expo/
